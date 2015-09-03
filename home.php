@@ -38,7 +38,7 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" data-toggle="tab" href="#home"><div>Lansing Web Project!</div></a>
+        <a class="navbar-brand" data-toggle="tab" href="#home"><div>Lansing Internal Services</div></a>
       </div>
       <div id="navbar" class="collapse navbar-collapse">
         <ul class="nav navbar-nav">
@@ -229,7 +229,14 @@
             <h1> You are now in Test Three! </h1>
           </div>
         </div>
+        <div align = 'center'>
+          <img src='logos/logo7937472_md.jpg'>
+          <p>Lansing Sales & Marketing Services Corp.<p>
+          <p>P.O. Box 8471 St. Louis MO 63132<p>
+          <p>Phone #: (573) 529-9374<p>
+          <p>Email: customerservices@lansingsm.com<p>
 
+        </div>
       </div>
 
 
