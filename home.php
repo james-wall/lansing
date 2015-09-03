@@ -22,7 +22,7 @@
     font-size: 10px;
     text-align: left;
   }
-</style>
+  </style>
 
 </head>
 
@@ -44,7 +44,7 @@
         <ul class="nav navbar-nav">
           <li><a data-toggle="tab" href="#home">Home</a></li>
           <li><a data-toggle="tab" href="#testOne">Advertising Purchase Agreement</a></li>
-          <li><a data-toggle="tab" href="#testTwo">TestTwo</a></li>
+          <li><a data-toggle="tab" href="#testTwo">Customer Invoice</a></li>
           <li><a data-toggle="tab" href="#testThree">TestThree</a></li>
         </ul>
       </div><!--/.nav-collapse -->
@@ -219,7 +219,38 @@
 
         <div id="testTwo" class="tab-pane fade"> 
           <div class="starter-template">
-            <h1> You are now in Test Two! </h1>
+            <h1> Lansing Customer Invoice </h1>
+            <h2>We're going to select a specific restaurant chain and then load up all of their data in addition to the new invoice</h2>
+            <table class="table">
+              <legend>New Invoice</legend>
+              <thead>
+                <tr>
+                  <th>Product</th>
+                  <th>Rate</th>
+                  <th>IHD</th>
+                  <th>Zip code</th>
+                  <th>City</th>
+                  <th>Household</th>
+                  <th>Invoice Date</th>
+                  <th>Due Date</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><input type="text" id="product"></td>
+                  <td><input type="text" id="rate"></td>
+                  <td><input type="text" id="ihd"></td>
+                  <td><input type="text" id="zipCode"></td>
+                  <td><input type="text" id="cityIn"></td>
+                  <td><input type="text" id="house"></td>
+                  <td><input type="text" id="inDate"></td>
+                  <td><input type="text" id="dueDate"></td>
+                </tr>
+                <tr>
+                  <td><input id="invoiceSub" type="submit" value="Submit"></td>
+                </tr>
+              </tbody>
+            </table>
           </div>
         </div>
 
@@ -231,10 +262,10 @@
         </div>
         <div align = 'center'>
           <img src='logos/logo7937472_md.jpg'>
-          <p>Lansing Sales & Marketing Services Corp.<p>
-          <p>P.O. Box 8471 St. Louis MO 63132<p>
-          <p>Phone #: (573) 529-9374<p>
-          <p>Email: customerservices@lansingsm.com<p>
+          <p>Lansing Sales & Marketing Services Corp.</p>
+          <p>P.O. Box 8471 St. Louis MO 63132</p>
+          <p>Phone #: (573) 529-9374</p>
+          <p>Email: customerservices@lansingsm.com</p>
 
         </div>
       </div>
