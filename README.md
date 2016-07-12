@@ -7,6 +7,6 @@ The project was discontinued because the business owner who commissioned it deci
 they did not want a website, however the basic website is still here.
 
 Relevant Technologies:
--Bootstrap
--PHP
--SQL
+- Bootstrap
+- PHP
+- SQL
